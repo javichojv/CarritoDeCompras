@@ -9,7 +9,7 @@ env:
   LOCATION: eastus
   TEMPLATE-FILE: .azure/bicep/webapp.bicep
   SUBSCRIPTION-ID: 8f6f66c4-f6e0-44f1-b3e3-03c61dec93f8
-  WEBAPP-NAME: az400-webapp-NAME
+  WEBAPP-NAME: WebCarritoCompras
 
 
 jobs:
